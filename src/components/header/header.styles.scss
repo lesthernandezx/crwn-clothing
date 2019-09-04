@@ -20,6 +20,17 @@
   
       .option {
         padding: 10px 15px;
+        cursor: pointer;
       }
     }
+
+    a {
+      text-decoration:none;
+    }
+    
+    a:hover {
+        text-decoration:underline;
+    }
   }
+
+  
